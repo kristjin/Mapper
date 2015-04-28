@@ -1,0 +1,18 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=C9:D8:93:EB:1D:D6:07:30:1E:69:02:D2:A5:EC:0A:62:C6:46:89:0E%3Bcom.thinkful.mapper
+
+    You can also add your credentials to an existing key, using this line:
+    C9:D8:93:EB:1D:D6:07:30:1E:69:02:D2:A5:EC:0A:62:C6:46:89:0E;com.thinkful.mapper
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" translatable="false" templateMergeStrategy="preserve">
+        YOUR_KEY_HERE
+    </string>
+</resources>
